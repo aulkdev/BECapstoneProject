@@ -13,3 +13,7 @@ Menu API
 - http://localhost:8000/restaurant/menu/items/1 - GET, PUT, PATCH, DELETE
 - http://localhost:8000/restaurant/booking/tables/ - GET
 - http://localhost:8000/restaurant/booking/tables/1/ - GET, PUT, PATCH, DELETE
+
+## Notes
+
+The unit tests are there, but do not work correctly.
