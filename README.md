@@ -6,6 +6,7 @@ admin - admin - c2362d77102be82acf119627fcb2359edcc7e8b7
 ## Routes
 
 Static Page -> http://localhost:8000/restaurant/menu/
+
 Menu API
 
 - http://localhost:8000/restaurant/menu/items/ - GET
